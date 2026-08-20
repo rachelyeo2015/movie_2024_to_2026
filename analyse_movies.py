@@ -1,3 +1,9 @@
+"""
+Simple python analysis of Kaggle 2024 to 2026 csv dataset
+To flag the top 10 best movies per year in yellow
+"""
+
+
 import pandas as pd
 from openpyxl import load_workbook
 from openpyxl.styles import PatternFill
