@@ -1,3 +1,2 @@
 # ignore all .txt and output .xlsx files (especially for sensitive information)
 *.txt
-*.xlsx
